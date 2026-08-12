@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SignFix</title>
+  <desc id="desc">SignFix repair, manufacture and installation logo</desc>
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#183654"/><stop offset="1" stop-color="#06172b"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffc21a"/><stop offset="1" stop-color="#f29a00"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#fff"/>
+  <circle cx="256" cy="225" r="194" fill="none" stroke="#07182d" stroke-width="18"/>
+  <path d="M77 233a180 180 0 0 1 358-27" fill="none" stroke="url(#gold)" stroke-width="14"/>
+  <path d="M156 209c4-77 46-130 101-130s98 53 102 130" fill="url(#navy)" stroke="#07182d" stroke-width="11"/>
+  <path d="M149 201c49-8 138-8 219 12-20 15-43 22-68 18-56-10-102-14-151-9z" fill="url(#gold)" stroke="#07182d" stroke-width="9"/>
+  <circle cx="256" cy="251" r="78" fill="#f6a15d" stroke="#07182d" stroke-width="9"/>
+  <path d="M191 237q23-24 46 0M274 237q23-24 46 0" fill="none" stroke="#07182d" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="220" cy="242" r="7" fill="#07182d"/><circle cx="293" cy="242" r="7" fill="#07182d"/>
+  <path d="M208 279q48 49 96 0-8 66-48 66t-48-66z" fill="#fff" stroke="#07182d" stroke-width="8"/>
+  <path d="M168 183q89-38 176 0" fill="none" stroke="#07182d" stroke-width="15" stroke-linecap="round"/>
+  <rect x="37" y="336" width="438" height="115" rx="32" fill="url(#navy)" stroke="#07182d" stroke-width="8"/>
+  <text x="256" y="414" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="82" font-style="italic" font-weight="900" fill="#fff">Sign<tspan fill="#ffae00">Fix</tspan></text>
+  <path d="M392 378l58-49-34 61 35 12-74 27 30-34z" fill="#ffae00" stroke="#07182d" stroke-width="5"/>
+  <text x="256" y="477" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="5" fill="#07182d">ALL SIGNAGE SOLUTIONS</text>
+</svg>
