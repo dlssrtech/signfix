@@ -17,3 +17,5 @@ flutter:
   uses-material-design: true
   assets:
     - assets/branding/signfix-logo.svg
+flutter:
+  uses-material-design: true
